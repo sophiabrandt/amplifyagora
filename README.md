@@ -6,7 +6,7 @@
 
 This is a clone and coding-along-repo, see [reedbarger/amplifyagora](https://github.com/reedbarger/amplifyagora).
 
-I rewrote the app to use Hooks and functional components. I implemented several custom hooks.
+I rewrote the app to use Hooks and functional components. I implemented several custom hooks. Example: [`useAmplifyAuth`](https://www.rockyourcode.com/custom-react-hook-use-aws-amplify-auth/).
 
 ## Tech used
 
